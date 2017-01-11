@@ -1,0 +1,29 @@
+p {
+  display: none;
+  text-align: center;
+  padding-top: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  letter-spacing: 1.5px;
+}
+.well h1 {
+  padding-top: 17px;
+}
+
+.well {
+  height: 200px;
+  background-color: #0c919e;
+  border-left: 10px solid white;
+  border-right: 10px solid white;
+  color: white;
+  border-radius: 30px;
+
+
+
+.well img {
+  height: 160px;
+  padding-left: 10px;
+}
