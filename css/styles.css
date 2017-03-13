@@ -9,6 +9,13 @@ p {
   padding-top: 30px;
 }
 
+.longDefinition {
+  display: none;
+  text-align: center;
+  padding-top: 0;
+  margin-top: -15px;
+}
+
 h1 {
   text-align: center;
   font-family: 'Architects Daughter', cursive;
@@ -36,4 +43,6 @@ h1 {
 .well img {
   height: 160px;
   padding-left: 10px;
+  margin-top: -30px;
+  margin-left: -5px;
 }
