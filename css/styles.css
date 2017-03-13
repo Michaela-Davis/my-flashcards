@@ -1,3 +1,8 @@
+body {
+  background-color: black;
+  font-family: 'Architects Daughter', cursive;
+}
+
 p {
   display: none;
   text-align: center;
@@ -6,21 +11,26 @@ p {
 
 h1 {
   text-align: center;
-  font-family: serif;
+  font-family: 'Architects Daughter', cursive;
   letter-spacing: 1.5px;
+  color: white
 }
+
 .well h1 {
-  padding-top: 17px;
+  padding-top: 18px;
 }
 
 .well {
   height: 200px;
   background-color: #0c919e;
-  border-left: 10px solid white;
-  border-right: 10px solid white;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
   color: white;
   border-radius: 30px;
-
+  font-size: 110%;
+}
 
 
 .well img {
